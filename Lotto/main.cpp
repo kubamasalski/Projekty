@@ -16,7 +16,7 @@ int main()
    {
     liczba=rand()%49+1;
     Sleep(1000);
-    cout<<liczba<<"\a"<<endl;
+    cout<<liczba<<"\a"<<endl ;
    }
      string s;
         getline(cin,s);
