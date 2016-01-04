@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451902725 source:c:\users\kuba\desktop\moje projekty\powt\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
